@@ -1,4 +1,4 @@
-# LinearRegression
+# Linear Regression
  2 small programs using linear regression
 
 The first one is a simple rent calculator, it takes 4 parameters and calculates the rent using a huge database (from Queens).
